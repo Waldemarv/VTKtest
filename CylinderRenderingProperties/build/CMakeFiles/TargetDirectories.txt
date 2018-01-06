@@ -1,0 +1,3 @@
+/home/marvin/Programmier-Projekte/VTK/CylinderRenderingProperties/build/CMakeFiles/edit_cache.dir
+/home/marvin/Programmier-Projekte/VTK/CylinderRenderingProperties/build/CMakeFiles/rebuild_cache.dir
+/home/marvin/Programmier-Projekte/VTK/CylinderRenderingProperties/build/CMakeFiles/CylinderRenderingProperties.dir
